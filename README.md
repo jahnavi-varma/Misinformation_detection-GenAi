@@ -1,6 +1,6 @@
 
 
-# Misinformation Detection – GenAI
+# Misinformation Detection
 
 Harness the power of **AI** to detect misinformation, fraud, and synthetic media.
 This repository contains everything you need to run the **CodeHustlers** app locally or deploy it on AI Studio.

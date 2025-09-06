@@ -5,9 +5,6 @@
 Harness the power of **AI** to detect misinformation, fraud, and synthetic media.
 This repository contains everything you need to run the **CodeHustlers** app locally or deploy it on AI Studio.
 
-🔗 **View the app in AI Studio:**
-[https://ai.studio/apps/drive/1hVnNh12zSbC-MS6eGMJGHfyIQeB-KGW1](https://ai.studio/apps/drive/1hVnNh12zSbC-MS6eGMJGHfyIQeB-KGW1)
-
 ---
 
 ## 🚀 Run Locally
